@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.a2498e80.chunk.css",
+    "main.js": "/portfolio/static/js/main.d3b22d6e.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.d3b22d6e.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.389ef39b.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.389ef39b.js.map",
+    "static/js/2.cba2052d.chunk.js": "/portfolio/static/js/2.cba2052d.chunk.js",
+    "static/js/2.cba2052d.chunk.js.map": "/portfolio/static/js/2.cba2052d.chunk.js.map",
+    "static/js/3.6380d90a.chunk.js": "/portfolio/static/js/3.6380d90a.chunk.js",
+    "static/js/3.6380d90a.chunk.js.map": "/portfolio/static/js/3.6380d90a.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/main.a2498e80.chunk.css.map": "/portfolio/static/css/main.a2498e80.chunk.css.map",
+    "static/js/2.cba2052d.chunk.js.LICENSE.txt": "/portfolio/static/js/2.cba2052d.chunk.js.LICENSE.txt",
+    "static/media/clock.9bf69579.jpg": "/portfolio/static/media/clock.9bf69579.jpg",
+    "static/media/drumkit.aa8279bc.jpg": "/portfolio/static/media/drumkit.aa8279bc.jpg",
+    "static/media/github.9b37c627.png": "/portfolio/static/media/github.9b37c627.png",
+    "static/media/library.56262e24.jpg": "/portfolio/static/media/library.56262e24.jpg",
+    "static/media/notes.37ed17a9.jpg": "/portfolio/static/media/notes.37ed17a9.jpg",
+    "static/media/restaurent.8d7a1dbe.jpg": "/portfolio/static/media/restaurent.8d7a1dbe.jpg",
+    "static/media/todolist.624a7566.jpg": "/portfolio/static/media/todolist.624a7566.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.389ef39b.js",
+    "static/js/2.cba2052d.chunk.js",
+    "static/css/main.a2498e80.chunk.css",
+    "static/js/main.d3b22d6e.chunk.js"
+  ]
+}
