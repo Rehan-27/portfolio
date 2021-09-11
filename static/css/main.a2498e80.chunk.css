@@ -46,7 +46,7 @@ a {
 
 #icon{
     width: 40px;
-    color: black;
+    background-color: black;
 }
 
 #icon:hover{
