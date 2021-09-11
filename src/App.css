@@ -4,12 +4,12 @@
 body{
     text-align: center;
     font-size: 20px;
-    background-color: #4e6881;
-    color: white;
+    background-color: white;
+    color: black;
 }
 
 h1,h2,h3,h4,h5{
-    font-family: 'Oswald';
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 p{
@@ -24,28 +24,29 @@ p{
 }
 
 a {
-    color: white;
+    color: black;
     text-decoration: none;
-    font-family: monospace;
+    font-family:monospace;
 }
 .btn{
-    color: white;
+    color: black;
     width:25%;
     background: transparent;
     outline: none;
-    border: 2px solid white;
+    border: 2px solid black;
     padding: 8px 15px;
     border-radius: 10px;
     font-family: Tahoma;
 }
 
 .btn:hover{
-    background-color: #808B96;
+    background-color: #F2F4F4;
     color: black;
 }
 
 #icon{
-    width: 38px;
+    width: 40px;
+    background-color: black;
 }
 
 #icon:hover{
@@ -53,11 +54,11 @@ a {
 }
 
 #box2{
-    background-color: #808B96;
+    background-color: #EBEDEF;
 }
 #box3{
     margin-top: 2rem;
-    background-color: #808B96;
+    background-color: #EBEDEF;
 }
 
 .title-fade-in{
