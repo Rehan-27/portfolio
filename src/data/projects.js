@@ -50,6 +50,12 @@ const PROJECTS = [
         title: 'Analog Clock',
         image: clock,
         link: 'https://rehan-27.github.io/Analog-Clock/'
+    },
+    {
+        id: 6,
+        title: 'Analog Clock',
+        image: clock,
+        link: 'https://rehan-27.github.io/Analog-Clock/'
     }
 ];
 
